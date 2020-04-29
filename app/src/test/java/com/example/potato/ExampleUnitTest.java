@@ -1,4 +1,4 @@
-package com.realibi.tutoials;
+package com.example.potato;
 
 import org.junit.Test;
 
